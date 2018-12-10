@@ -128,7 +128,7 @@ class plane{
             if (r.top+px - oBackground.r.top <= oBackground.h && oBackground.r.top - r.top+px <= h-px-px) {
                 return true;
             }
-            
+
         return false;
 
     }
